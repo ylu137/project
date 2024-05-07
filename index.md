@@ -94,7 +94,5 @@ The two data above will be merged and analyzed.
 ## Updates
 - Expand from 1999 to 2005
 
-## Transparency
-- Show all your work in one `.do` file script
-- Have donors as a parallel?
+
   

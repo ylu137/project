@@ -47,7 +47,6 @@ The two data above will be merged and analyzed.
     import sasxport5 "https://wwwn.cdc.gov/Nchs/Nhanes/1999-2000/DEMO.XPT", clear
     merge 1:1 seqn using followup
     lookfor follow
-  
   ```
 ## Step 4: Key Parameters for Week 7s Analysis (data import)
 - Import `Self-Reported Health Assessment`:
@@ -59,6 +58,7 @@ The two data above will be merged and analyzed.
 - Here’s a first iteration of a script that answers they project main goal.
   - Save it as `project.do` and upload it to you `repo`.
   - Keep updating it over the next two weeks, with a meaningful commit statement each time for version control.
+
   ```markdown
     global repo "https://github.com/ylu137/project/raw/main/"
     cls
@@ -78,7 +78,6 @@ The two data above will be merged and analyzed.
     merge 1:1 seqn using demo_mortality, nogen
     sts graph, by(huq010) fail
     stcox i.huq010
-  
   ```
 ## Parameters
 - Self-reported health
@@ -97,4 +96,3 @@ The two data above will be merged and analyzed.
 ## Transparency
 - Show all your work in one `.do` file script
 - Have donors as a parallel?
-  

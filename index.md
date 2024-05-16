@@ -83,5 +83,9 @@ The two data above will be merged and analyzed.
 - This week, we analyze by:
   1. using [non-parametric](Graph.svg) (Kaplan Meier)
   2. using [Semi-parametric](Graph1.svg) (cox regression)
-  3. using parametric (Weibull regression) method
+  3. using [parametric]() (Weibull regression) method
   4. look at the association between self-assessed health status and mortality
+ 
+## Conclusion
+- There is an association between self-assessed health status and mortality
+  click [here](file:///Users/yongyilu/Desktop/07c/dyndoc.html) to view nonparametric and semiparametric risk estimates from Stata

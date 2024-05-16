@@ -90,4 +90,4 @@ The two data above will be merged and analyzed.
  
 ## Conclusion
 - There is an association between self-assessed health status and mortality
-  click [here](file:///Users/yongyilu/Desktop/07c/dyndoc.html) to view nonparametric and semiparametric risk estimates from Stata
+ to view nonparametric and semiparametric risk estimates from Stata by clicking [here](file:///Users/yongyilu/Desktop/07c/dyndoc.html)

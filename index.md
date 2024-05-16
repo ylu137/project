@@ -79,4 +79,9 @@ The two data above will be merged and analyzed.
     sts graph, by(huq010) fail
     stcox i.huq010
   ```
-[here] ( )
+# homework 7
+- This week, we analyze by:
+  1. using [non-parametric](nonparametric.png) (Kaplan Meier)
+  2. using [Semi-parametric]  (cox regression)
+  3. using parametric (Weibull regression) method
+  4. look at the association between self-assessed health status and mortality

@@ -79,16 +79,4 @@ The two data above will be merged and analyzed.
     sts graph, by(huq010) fail
     stcox i.huq010
   ```
-## Parameters
-- Self-reported health
-- Age
-- Sex
-- Race
-- Ethnicity
-  
-## Inferences
-- 95%CI
-- p-values
-
-## Updates
-- Expand from 1999 to 2005
+[here] ( )

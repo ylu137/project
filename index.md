@@ -84,7 +84,8 @@ The two data above will be merged and analyzed.
   1. using [non-parametric](Graph.svg) (Kaplan Meier)
   2. using [Semi-parametric](Graph1.svg) (cox regression)
   3. using [parametric](Graph3.svg) (Weibull regression) method
-  4. compare the [adjusted and unadjusted graphs]()
+  4. compare the [adjusted and unadjusted graphs](Graph4.svg)
+  5. adjust for age, sex, race, and two additional confounders to achieve unbiased inferences, click [here](Graph5.svg)
   6. look at the association between self-assessed health status and mortality
  
 ## Conclusion
